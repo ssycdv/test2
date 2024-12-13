@@ -53,23 +53,3 @@
 2. Hacer clic en **Enviar SMS** para enviar la receta al paciente.
 
 ---
-
-## **Importante**
-### **Errores Comunes y Advertencias**
-- Verificar siempre que el **diagnóstico** coincida con el medicamento.  
-  - **En caso de error:** Suspender la receta y generar una nueva.
-- **No dividir medicamentos en múltiples recetas:** Si hay más de 4 medicamentos, agruparlos en recetas específicas.
-- Respetar las normativas para psicotrópicos y programas especiales.
-
-**Recuerda:** Las recetas electrónicas son un documento oficial. Asegúrate de cumplir con las regulaciones vigentes.
-
----
-
-### **Formato Mejorado para los Puntos Clave**
-#### Advertencias (en cuadros resaltados):
-
-```
-IMPORTANTE:
-- Verifica siempre el diagnóstico antes de generar la receta.
-- Agrupa psicotrópicos y medicamentos de programas especiales según las normativas.
-```
