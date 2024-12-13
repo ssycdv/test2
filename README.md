@@ -6,6 +6,10 @@
    - Verificar que el número de celular del paciente esté actualizado, ya que la receta electrónica se enviará vía SMS.
    - Para editar el número, hacer clic en el botón junto al número de celular.
 
+
+![Alt Text](https://media1.tenor.com/m/hRiPtsp-m0IAAAAd/the-simpsons-homer-simpson.gif)
+
+
 ## **2. Evolución Clínica**
 1. Ingresar a la pestaña **Evoluciones**.
 2. Seleccionar los problemas desde el panel ubicado en la parte izquierda de la pantalla.
