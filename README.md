@@ -1,5 +1,3 @@
----
-
 # **Instructivo de Prescripción Electrónica en RISMI**
 
 ## **1. Verificación de Datos del Paciente**
@@ -8,14 +6,10 @@
    - Verificar que el número de celular del paciente esté actualizado, ya que la receta electrónica se enviará vía SMS.
    - Para editar el número, hacer clic en el botón junto al número de celular.
 
----
-
 ## **2. Evolución Clínica**
 1. Ingresar a la pestaña **Evoluciones**.
 2. Seleccionar los problemas desde el panel ubicado en la parte izquierda de la pantalla.
 3. Completar la evolución correspondiente y hacer clic en **Guardar ahora**.
-
----
 
 ## **3. Prescripción Electrónica**
 ### **Pasos para Recetar Medicamentos**
@@ -31,8 +25,6 @@
 
 7. Hacer clic en **Guardar** para confirmar cada medicamento.
 
----
-
 ### **Revisión Final**
 1. Asegurarse de que todos los medicamentos se hayan registrado correctamente.
 2. Seleccionar la cantidad correspondiente.  
@@ -46,10 +38,6 @@
 
 2. Hacer clic en **Generar Receta**. Esto creará un archivo PDF con la receta electrónica.
 
----
-
 ## **4. Envío al Paciente**
 1. Acceder al apartado **Histórico Receta**.
 2. Hacer clic en **Enviar SMS** para enviar la receta al paciente.
-
----
