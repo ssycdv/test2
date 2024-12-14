@@ -5,6 +5,7 @@
 2. Acceder a la pestaña **Resumen**.
    - Verificar que el número de celular del paciente esté actualizado, ya que la receta electrónica se enviará vía SMS.
    - Para editar el número, hacer clic en el botón junto al número de celular.
+
 ![1_verificar_celular](https://github.com/user-attachments/assets/b9b1cd3a-22a5-4c4b-a87c-f156f91d7264)
 
 
