@@ -5,17 +5,14 @@
 2. Acceder a la pestaña **Resumen**.
    - Verificar que el número de celular del paciente esté actualizado, ya que la receta electrónica se enviará vía SMS.
    - Para editar el número, hacer clic en el botón junto al número de celular.
-
-![test](https://github.com/user-attachments/assets/4aa94aa0-1ac3-4707-be3e-57eff1451d5d)
-
-
+![1_verificar_celular](https://github.com/user-attachments/assets/b9b1cd3a-22a5-4c4b-a87c-f156f91d7264)
 
 
 ## **2. Evolución Clínica**
 1. Ingresar a la pestaña **Evoluciones**.
 2. Seleccionar los problemas desde el panel ubicado en la parte izquierda de la pantalla.
 3. Completar la evolución correspondiente y hacer clic en **Guardar ahora**.
-![Alt Text](https://media1.tenor.com/m/hRiPtsp-m0IAAAAd/the-simpsons-homer-simpson.gif)
+
 ## **3. Prescripción Electrónica**
 ### **Pasos para Recetar Medicamentos**
 1. Acceder a la pestaña **Prescripción Electrónica**.
