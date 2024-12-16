@@ -11,7 +11,7 @@
 ## **2. Verificación de diagnóstico**
 1. Ingresar a la pestaña **Evoluciones**.
 2. Verificar que el diagnóstico que irá en la receta se encuentre listado entre los problemas desde el panel ubicado en la parte izquierda de la pantalla.
-3. Si el diagnóstico a utilizar **no** se encuentra listado debe ser agregado.
+3. Si el diagnóstico a utilizar **no** se encuentra listado entre los problemas debe ser agregado con el botpon **Agregar**.
 
 ![2_verificar_diagnostico-optimizado](https://github.com/user-attachments/assets/faac97ea-027b-470b-8a10-3a810e5ec07e)
 
