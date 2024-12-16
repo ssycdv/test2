@@ -13,7 +13,7 @@
 2. Verificar que el diagnóstico que irá en la receta se encuentre listado entre los problemas desde el panel ubicado en la parte izquierda de la pantalla.
 3. Si el diagnóstico a utilizar **no** se encuentra listado entre los problemas debe ser agregado con el botón **Agregar**.
 
-![2_verificar_diagnostico-optimizado](https://github.com/user-attachments/assets/faac97ea-027b-470b-8a10-3a810e5ec07e)
+![2_verificar_diagnostico2-ezgif com-optimize](https://github.com/user-attachments/assets/38e8c919-bc40-45cb-a405-362e9cddc39c)
 
 ## **3. Prescripción Electrónica**
 ### **Pasos para Recetar Medicamentos**
