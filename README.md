@@ -8,10 +8,12 @@
 
 ![1_verificar_paciente](https://github.com/user-attachments/assets/54ffffb5-f366-43cc-a1dd-451b1a051242)
 
-## **2. Evolución Clínica**
+## **2. Verificación de diagnóstico**
 1. Ingresar a la pestaña **Evoluciones**.
-2. Seleccionar los problemas desde el panel ubicado en la parte izquierda de la pantalla.
-3. Completar la evolución correspondiente y hacer clic en **Guardar ahora**.
+2. Verificar que el diagnóstico que irá en la receta se encuentre listado entre los problemas desde el panel ubicado en la parte izquierda de la pantalla.
+3. Si el diagnóstico a utilizar **no** se encuentra listado debe ser agregado.
+
+![2_verificar_diagnostico-optimizado](https://github.com/user-attachments/assets/faac97ea-027b-470b-8a10-3a810e5ec07e)
 
 ## **3. Prescripción Electrónica**
 ### **Pasos para Recetar Medicamentos**
