@@ -43,7 +43,15 @@
    - **Medicamentos del Programa de HTA y DBT:** Deben agruparse en una receta (máximo de 4 medicamentos). Si hay más de 4, se generan varias recetas.
 
 4. Hacer clic en **Generar Receta**. Esto creará un archivo PDF con la receta electrónica.
+5. Verificar que la receta se generó de forma con los datos correctos del paciente, medicamentos, diagnóstico y profesional.
+
+![4_generar_receta2-ezgif com-optimize](https://github.com/user-attachments/assets/6ec9bf8d-4a8a-438d-b1b9-ea5507f79c1a)
 
 ## **3. Envío al Paciente**
 1. Acceder al apartado **Histórico Receta**.
-2. Hacer clic en **Enviar SMS** para enviar la receta al paciente.
+2. Verificar que la receta a enviar sea la correcta.
+3. Hacer clic en **Enviar SMS** para enviar la receta al paciente.
+
+![5_enviarsms2-ezgif com-optimize](https://github.com/user-attachments/assets/74953541-0887-4110-a13e-51c7f0025f22)
+
+
