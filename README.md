@@ -6,7 +6,7 @@
    - Verificar que el número de celular del paciente esté actualizado, ya que la receta electrónica se enviará vía SMS.
    - Para editar el número, hacer clic en el botón junto al número de celular.
 
-![output476](https://github.com/user-attachments/assets/4cd560ab-9f49-44d5-bf66-8ff61305d3c2)
+![1_verificar_paciente](https://github.com/user-attachments/assets/54ffffb5-f366-43cc-a1dd-451b1a051242)
 
 ## **2. Evolución Clínica**
 1. Ingresar a la pestaña **Evoluciones**.
