@@ -16,12 +16,12 @@
 ![2_verificar_diagnostico2-ezgif com-optimize](https://github.com/user-attachments/assets/38e8c919-bc40-45cb-a405-362e9cddc39c)
 
 ## **3. Prescripción Electrónica**
-### **Pasos para Recetar Medicamentos**
+### **1. Realizar la Indicación**
 1. Acceder a la pestaña **Prescripción Electrónica**.
 2. Visualizar las indicaciones activas, junto con la fecha y el médico solicitante.
 3. Hacer clic en el botón **Agregar**.
 4. Buscar el medicamento por su nombre genérico.
-5. Seleccionar la presentación comercial adecuada.
+5. Seleccionar la presentación adecuada.
 6. Completar los datos necesarios:
    - **Dosis:** Cantidad prescrita.
    - **Tiempo entre tomas:** Intervalos recomendados.
@@ -29,19 +29,21 @@
 
 7. Hacer clic en **Guardar** para confirmar cada medicamento.
 
-### **Revisión Final**
+![3_indicacion-ezgif com-optimize](https://github.com/user-attachments/assets/bf841209-a88c-4883-bcce-4da249fd0741)
+
+### **2. Generar la Receta**
 1. Asegurarse de que todos los medicamentos se hayan registrado correctamente.
-2. Seleccionar la cantidad correspondiente.  
+2. Seleccionar los medicamentos que se van a incluir en la receta (no más de 4) y la cantidad correspondiente para cada indicación.  
    **Ejemplo:** Si el paciente debe tomar 1 comprimido cada 24 horas, se recetarán 30 comprimidos para un mes.
 
-### **Generación de la Receta**
-1. Recordar las reglas para recetas específicas:
-   - **Máximo de 4 medicamentos por receta.**
+### **ATENCIÓN**
+3. Recordar las reglas para recetas:
+   - **Máximo de 4 medicamentos por receta.** Si hay más de 4, se generan varias recetas.
    - **Psicotrópicos:** Requieren receta electrónica y duplicado en papel escrito a mano.
    - **Medicamentos del Programa de HTA y DBT:** Deben agruparse en una receta (máximo de 4 medicamentos). Si hay más de 4, se generan varias recetas.
 
-2. Hacer clic en **Generar Receta**. Esto creará un archivo PDF con la receta electrónica.
+4. Hacer clic en **Generar Receta**. Esto creará un archivo PDF con la receta electrónica.
 
-## **4. Envío al Paciente**
+## **3. Envío al Paciente**
 1. Acceder al apartado **Histórico Receta**.
 2. Hacer clic en **Enviar SMS** para enviar la receta al paciente.
