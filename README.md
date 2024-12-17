@@ -25,7 +25,7 @@
 6. Completar los datos necesarios:
    - **Dosis:** Cantidad prescrita.
    - **Tiempo entre tomas:** Intervalos recomendados.
-   - **Diagnóstico:** Relacionado con el medicamento.
+   - **Diagnóstico:** Relacionado con el medicamento. Si no aparece el deseado ver [2. Verificación de diagnóstico](#2-verificación-de-diagnóstico)
 
 7. Hacer clic en **Guardar** para confirmar cada medicamento.
 
@@ -35,15 +35,14 @@
 1. Asegurarse de que todos los medicamentos se hayan registrado correctamente.
 2. Seleccionar los medicamentos que se van a incluir en la receta (no más de 4) y la cantidad correspondiente para cada indicación.  
    **Ejemplo:** Si el paciente debe tomar 1 comprimido cada 24 horas, se recetarán 30 comprimidos para un mes.
+4. Hacer clic en **Generar Receta**. Esto creará un archivo PDF con la receta electrónica.
+5. Verificar que la receta se generó con los datos correctos del paciente, medicamentos, diagnóstico y firma del profesional.
 
 ### **ATENCIÓN**
-3. Recordar las reglas para recetas:
+Recordar las reglas para recetas:
    - **Máximo de 4 medicamentos por receta.** Si hay más de 4, se generan varias recetas.
    - **Psicotrópicos:** Requieren receta electrónica y duplicado en papel escrito a mano.
    - **Medicamentos del Programa de HTA y DBT:** Deben agruparse en una receta (máximo de 4 medicamentos). Si hay más de 4, se generan varias recetas.
-
-4. Hacer clic en **Generar Receta**. Esto creará un archivo PDF con la receta electrónica.
-5. Verificar que la receta se generó de forma con los datos correctos del paciente, medicamentos, diagnóstico y profesional.
 
 ![4_generar_receta2-ezgif com-optimize](https://github.com/user-attachments/assets/6ec9bf8d-4a8a-438d-b1b9-ea5507f79c1a)
 
