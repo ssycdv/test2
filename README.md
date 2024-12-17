@@ -1,4 +1,17 @@
 # **Instructivo de Prescripción Electrónica en RISMI**
+## Indice
+
+[1. Verificación de Datos del Paciente](#1-verificación-de-datos-del-paciente)
+
+[2. Verificación de diagnóstico](#2-verificación-de-diagnóstico)
+
+[3. Prescripción Electrónica](#3-prescripción-electrónica)
+
+   - [Realizar la Indicación](#1-realizar-la-indicación)
+   
+   - [Generar la Receta](#2-generar-la-receta)
+   
+   - [Envío al Paciente](#3-envío-al-paciente)
 
 ## **1. Verificación de Datos del Paciente**
 1. Ingresar al aplicativo **Historia Clínica**.
@@ -46,7 +59,7 @@ Recordar las reglas para recetas:
 
 ![4_generar_receta2-ezgif com-optimize](https://github.com/user-attachments/assets/6ec9bf8d-4a8a-438d-b1b9-ea5507f79c1a)
 
-## **3. Envío al Paciente**
+### **3. Envío al Paciente**
 1. Acceder al apartado **Histórico Receta**.
 2. Verificar que la receta a enviar sea la correcta.
 3. Hacer clic en **Enviar SMS** para enviar la receta al paciente.
